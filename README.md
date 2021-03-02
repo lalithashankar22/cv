@@ -23,9 +23,7 @@
 <img src="clould.png"  width="100" height="70">
 </div>
 
-<div class="mountain1">
-<img src="mountain.png"  width="450" height="200">
-</div>
+
 
 <div class="boxone">
 <h1>I'm Lalli</h1>
