@@ -1,0 +1,73 @@
+h1{
+	color: #aaaaaa;
+	font: italic bold 1.2em "Fira Sans", serif;
+	font-size: 60px;
+	margin-top: 0;
+margin-bottom: 0;
+}
+
+h4{
+	color: #aaaaaa;
+	font: italic bold 1.2em "Fira Sans", serif;
+	font-size: 20px;
+	margin-top: 0;
+margin-bottom: 0;
+}
+.small{
+	position: relative;
+  left: 20px;
+}
+
+body{
+	background-color: #ffe2e2;
+}
+.clould1{
+	 position: absolute;
+	 left: 100px;
+  top: 50px;
+}
+.clould2{
+	 position: absolute;
+	 left: 0px;
+  top:400px;
+}
+.clould3{
+	 position: absolute;
+	 left: 900px;
+  top:150px;
+}
+.clould4{
+	 position: absolute;
+	 left: 1100px;
+  top:500px;
+}
+
+.mountain1{
+	position: absolute;
+	left: 400px;
+  top:300px;
+}
+
+.boxone{
+	
+  display:inline-block;
+  position: absolute;
+  left: 550px;
+  top: 200px;
+}
+.boxtwo{
+  display:inline-block;
+  position: relative;
+  left: 1150px;
+  top: 0px;
+}
+
+.box3{
+	
+  display:inline-block;
+  position: relative;
+  left: 1160px;
+  top: 0px;
+}
+
+

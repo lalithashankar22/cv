@@ -1,0 +1,27 @@
+
+
+
+body
+{background-color: #ffe2e2;
+}
+
+hr{
+background-color: #ffe2e2;
+border-color: #065446;
+border-width: 7px;
+border-style: dotted none none;
+height: 0px;
+width: 5%;
+}
+
+
+h1
+{color: #065446;
+}
+h2{
+	color: #197163;
+}
+h3
+{
+	color: #158467;
+}
